@@ -1,13 +1,4 @@
 # PotterTests
 HarryPotterTests
-<<<<<<< HEAD
-new22
-
-=======
-<<<<<<< HEAD
-first2
-=======
+new4
 new2
->>>>>>> origin/main
-
->>>>>>> origin/main
