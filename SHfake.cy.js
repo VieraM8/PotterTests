@@ -9,6 +9,7 @@ it('returns fake response', () => {
     cy.intercept('GET', '**/sortingHat',fakeresponse).as('sortingHatBackend')
 
 //cy.intercept(method, url, staticResponse)
+//prepisana odpoved klobuka
    
     cy.visit('http://localhost:8080/#/sortingHat')
     cy.get('[data-test="sort-button"]').click()
