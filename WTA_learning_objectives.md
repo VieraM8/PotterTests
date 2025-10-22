@@ -6,7 +6,10 @@
     - Zlyhanie = výsledok činnosti chybného software.
 - # **Session based testing** 
 - # **Jira and Bug**
+- nastroj na testovanie
+- chyba, zlyhanie
 - # **Manažment testovania**
+
 - # **Modely vývoja software-u** 
     - kontrolovaný exploratory testing 
     - Modely vývoja software-u
