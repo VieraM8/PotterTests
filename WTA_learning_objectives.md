@@ -16,5 +16,8 @@
 - # **Techniky tvorby testov**
 - # **HTML, CSS, JavaScript**
 - # **Nástroje testovania** 
+[Nástroje testovania]{https://www.zaptest.com/sk/nastroje-na-testovanie-softveru-30-najlepsich-produktov-na-testovanie-softveru-na-trhu-v-roku-2024}
 - # **Testovanie API** 
 - # **SQL** 
+![sql syntax](SQLimages.png)
+![sql syntax](SQL.png.png)
